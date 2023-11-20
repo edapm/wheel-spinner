@@ -55,31 +55,39 @@ body {
 }
 .container .pie-2 {
   background-color: #ff9800;
-  transform: rotate(45deg);
+  transform: rotate(36deg);
 }
 .container .pie-3 {
   background-color: #e91e63;
-  transform: rotate(90deg);
+  transform: rotate(72deg);
 }
 .container .pie-4 {
   background-color: #4caf50;
-  transform: rotate(135deg);
+  transform: rotate(108deg);
 }
 .container .pie-5 {
   background-color: #009688;
-  transform: rotate(180deg);
+  transform: rotate(144deg);
 }
 .container .pie-6 {
   background-color: #795548;
-  transform: rotate(225deg);
+  transform: rotate(180deg);
 }
 .container .pie-7 {
   background-color: #9c27b0;
-  transform: rotate(270deg);
+  transform: rotate(216deg);
 }
 .container .pie-8 {
   background-color: #f44336;
-  transform: rotate(315deg);
+  transform: rotate(252deg);
+}
+.container .pie-9 {
+  background-color: #3f51b5;
+  transform: rotate(288deg);
+}
+.container .pie-10 {
+  background-color: #ff9800;
+  transform: rotate(324deg);
 }
 
 .arrow {
