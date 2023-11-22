@@ -90,6 +90,87 @@ body {
   transform: rotate(324deg);
 }
 
+/*
+.container .pie-11 {
+  background-color: #e91e63;
+  transform: rotate(327deg);
+}
+
+.container .pie-12 {
+  background-color: #4caf50;
+  transform: rotate(330deg);
+}
+
+.container .pie-13 {
+  background-color: #009688;
+  transform: rotate(332deg);
+}
+
+.container .pie-14 {
+  background-color: #795548;
+  transform: rotate(334deg);
+}
+
+.container .pie-15 {
+  background-color: #9c27b0;
+  transform: rotate(336deg);
+}
+
+.container .pie-16 {
+  background-color: #f44336;
+  transform: rotate(338deg);
+}
+
+.container .pie-17 {
+  background-color: #3f51b5;
+  transform: rotate(339deg);
+}
+
+.container .pie-18 {
+  background-color: #ff9800;
+  transform: rotate(340deg);
+}
+
+.container .pie-19 {
+  background-color: #e91e63;
+  transform: rotate(341deg);
+}
+
+.container .pie-20 {
+  background-color: #4caf50;
+  transform: rotate(342deg);
+}
+
+.container .pie-21 {
+  background-color: #009688;
+  transform: rotate(343deg);
+}
+
+.container .pie-22 {
+  background-color: #795548;
+  transform: rotate(344deg);
+}
+
+.container .pie-23 {
+  background-color: #9c27b0;
+  transform: rotate(344deg);
+}
+
+.container .pie-24 {
+  background-color: #f44336;
+  transform: rotate(345deg);
+}
+
+.container .pie-25 {
+  background-color: #3f51b5;
+  transform: rotate(346deg);
+}
+
+.container .pie-26 {
+  background-color: #ff9800;
+  transform: rotate(346deg);
+} */
+
 .arrow {
   position: absolute;
   top: 0;
